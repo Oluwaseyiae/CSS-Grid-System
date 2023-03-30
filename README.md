@@ -21,12 +21,6 @@
   Feel free to contribute
 
 </p>
- <h3 align="left">
-    🔹
-    <a href="https://github.com/kingDOM2227/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/kingDOM2227/Portfolio/issues">Request Feature</a>
-</h3>
 
 
 <h2>Questions ?</h2>
