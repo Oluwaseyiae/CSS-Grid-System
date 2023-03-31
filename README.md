@@ -1,5 +1,5 @@
 # CSS Grid System
- This project is made for beginners to understand CSS Grid System
+CSS grid systems helps in making efficient web layouts. This is a beginner friendly project that will give you the basic knowledge about grid system.
 
 <br>
  <h2>How to Contribute</h2>
