@@ -8,7 +8,7 @@ CSS grid systems helps in making efficient web layouts. This is a beginner frien
 
 1. Fork the the project<br>
 
-2. Create your feature branch (git checkout -b my-new-feature)<br>
+2. Create a feature branch (git checkout -b my-new-feature)<br>
 
 3. Make required changes and commit (git commit -am 'Add some feature')<br>
 
