@@ -37,6 +37,6 @@ CSS grid systems helps in making efficient web layouts. This is a beginner frien
 
  <h3>Show your support</h3>
 
-Give a ⭐ if you like this website and kindly follow for more! Your support makes a huge impact!
+Give a ⭐ if you like this website and kindly follow for more! Your support makes a huge impact.
  
 <a href="https://www.buymeacoffee.com/kdom2227U" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
